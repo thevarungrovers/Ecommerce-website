@@ -13,6 +13,7 @@
     height: 20px;
 }
 
+
 /* form */
 .field label{
     color: #2d3436;
@@ -28,6 +29,7 @@
 .field input:hover{
     border: 1px solid #3498db;
 }
+
 
 /* sm */
 .sm a img {
