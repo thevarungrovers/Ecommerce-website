@@ -1,7 +1,8 @@
 
 *{
     font-family: 'Yellowtail', cursive;
-}/* nav */
+}
+/* nav */
 .name a{
     text-decoration: none;
     color:#2f3640;
@@ -14,7 +15,28 @@
 }
 
 /* crousel */
-.imagescrou{
+#imagescrou{
     padding: 10px;
 }
 
+/* card */
+.cardpage img{
+    height: 300px;
+}
+
+/* sm */
+footer{
+    padding-top: 20px;
+}
+
+.sm span{
+    color: #8395a7;
+}
+.sm a{
+    padding: 5px;
+    text-decoration: none;
+}
+
+.sm a img{
+    height: 30px;
+}
