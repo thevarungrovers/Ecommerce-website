@@ -68,3 +68,11 @@ footer{
 .sm a img{
     height: 30px;
 }
+
+.accalready{
+    float: right;
+}
+
+.accalready a{
+    text-decoration: none;
+}
